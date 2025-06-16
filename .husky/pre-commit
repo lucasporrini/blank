@@ -1,0 +1,1 @@
+pnpm --cwd app lint-staged
